@@ -26,9 +26,9 @@
   },
   "EsayAdmob": {
     "UseEsayAdmob": true,
-    "RewardedVideoId": "ca-app-pub-3940256099942544/5224354917",
-    "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
-    "BannerId": "ca-app-pub-3940256099942544/6300978111"
+    "RewardedVideoId": "",
+    "InterstitialId": "",
+    "BannerId": ""
   },
   "EsayAppLovin": {
     "UseEsayAppLovin": false,
