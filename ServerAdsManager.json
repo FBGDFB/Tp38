@@ -1,7 +1,7 @@
 {
     "Version": "v 1.1.0",
     "ASAdUnits": {
-        "UseAdmob": false,
+        "UseAdmob": true,
         "AppId": "ca-app-pub-3940256099942544~3347511713",
         "BannerId": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
