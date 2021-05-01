@@ -3,7 +3,7 @@
     "EnableADSOnServer": true,
     "UseAdsIn_Github": true,
     "UseAdsIn_Googledrive": false,
-    "EditorGithubFileUrl": "",
+    "EditorGithubFileUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/EasyAdsJson.json",
     "EditorGoogledriveFileUrl": "",
     "EasyAdmob": {
         "UseEasyAdmob": true,
