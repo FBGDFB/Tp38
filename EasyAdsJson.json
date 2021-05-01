@@ -1,5 +1,5 @@
 {
-    "Version": "1.0.24",
+    "Version": "1.0.0",
     "EnableADSOnServer": true,
     "UseAdsIn_Github": true,
     "UseAdsIn_Googledrive": false,
@@ -13,9 +13,16 @@
         "BannerId": "ca-app-pub-3940256099942544/6300978111"
     },
     "EasyFacebook": {
-        "UseEasyFacebook": true,
-        "BannerId": "2109954819150266_2109957119150036",
-        "InterstitialId": "1050820212051817_1050823905384781",
-        "RewardedVideoId": "2109954819150266_2109961085816306"
+        "UseEasyFacebook": false,
+        "BannerId": "",
+        "InterstitialId": "",
+        "RewardedVideoId": ""
+    },
+    "EasyUnityAds": {
+        "UseEasyUnityAds": true,
+        "UnityAdsId": "4112833",
+        "PlacementIDBanner": "",
+        "PlacementIDInterstitisl": "Interstitial_Android",
+        "PlacementIDRewarded": "Rewarded_Android"
     }
 }
