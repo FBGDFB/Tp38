@@ -1,5 +1,5 @@
 {
-    "Version": "1.0.1",
+    "Version": "1.0.0",
     "DayTime": 0,
     "toolbarInt": 0,
     "EnableADSOnServer": true,
@@ -27,9 +27,9 @@
     "EasyAdmob": {
         "UseEasyAdmob": true,
         "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-        "RewardedVideoId": "ca-app-pub-3940256099942544~3347511713",
-        "InterstitialId": "ca-app-pub-3940256099942544~3347511713",
-        "BannerId": "ca-app-pub-3940256099942544~3347511713"
+        "RewardedVideoId": "ca-app-pub-3940256099942544/5224354917",
+        "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
+        "BannerId": "ca-app-pub-3940256099942544/6300978111"
     },
     "EasyAppLovin": {
         "UseEasyAppLovin": false,
@@ -42,9 +42,9 @@
     },
     "EasyFacebook": {
         "UseEasyFacebook": true,
-        "BannerId": "ca-app-pub-3940256099942544~3347511713",
-        "InterstitialId": "ca-app-pub-3940256099942544~3347511713",
-        "RewardedVideoId": "ca-app-pub-3940256099942544~3347511713"
+        "BannerId": "262311855398780_275326354097330",
+        "InterstitialId": "262311855398780_262312712065361",
+        "RewardedVideoId": "262311855398780_275326060764026"
     },
     "EasyHeyzap": {
         "UseEasyHeyzap": false,
@@ -71,9 +71,9 @@
         "RewardedVideoAdPlacement": ""
     },
     "EasyVungle": {
-        "UseEasyVungle": true,
-        "AppID": "ca-app-pub-3940256099942544~3347511713",
-        "RewardedPlacementId": "ca-app-pub-3940256099942544~3347511713",
-        "InterstitialPlacementID": "ca-app-pub-3940256099942544~3347511713"
+        "UseEasyVungle": false,
+        "AppID": "",
+        "RewardedPlacementId": "",
+        "InterstitialPlacementID": ""
     }
 }
