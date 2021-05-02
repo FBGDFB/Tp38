@@ -13,10 +13,10 @@
         "BannerId": "ca-app-pub-3940256099942544/6300978111"
     },
     "EasyFacebook": {
-        "UseEasyFacebook": false,
-        "BannerId": "",
-        "InterstitialId": "",
-        "RewardedVideoId": ""
+        "UseEasyFacebook": true,
+        "BannerId": "2109954819150266_2109957119150036",
+        "InterstitialId": "2109954819150266_2109960142483067",
+        "RewardedVideoId": "2109954819150266_2109961085816306"
     },
     "EasyUnityAds": {
         "UseEasyUnityAds": true,
