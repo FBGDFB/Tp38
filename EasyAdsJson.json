@@ -19,7 +19,7 @@
         "RewardedVideoId": ""
     },
     "EasyUnityAds": {
-        "UseEasyUnityAds": true,
+        "UseEasyUnityAds": false,
         "UnityAdsId": "4112955",
         "PlacementIDBanner": "Banner_Android",
         "PlacementIDInterstitisl": "Interstitial_Android",
