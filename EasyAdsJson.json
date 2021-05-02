@@ -6,7 +6,7 @@
     "EditorGithubFileUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/EasyAdsJson.json",
     "EditorGoogledriveFileUrl": "",
     "EasyAdmob": {
-        "UseEasyAdmob": true,
+        "UseEasyAdmob": false,
         "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
         "RewardedVideoId": "ca-app-pub-3940256099942544/5224354917",
         "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
@@ -19,7 +19,7 @@
         "RewardedVideoId": "2109954819150266_2109961085816306"
     },
     "EasyUnityAds": {
-        "UseEasyUnityAds": true,
+        "UseEasyUnityAds": false,
         "UnityAdsId": "4112955",
         "PlacementIDBanner": "Banner_Android",
         "PlacementIDInterstitisl": "Interstitial_Android",
