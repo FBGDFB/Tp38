@@ -14,9 +14,9 @@
     },
     "EasyFacebook": {
         "UseEasyFacebook": true,
-        "BannerId": "FANbannerIDBeginIMG_16_9_LINK#2109954819150266_2109957119150036FANbannerIDLast",
-        "InterstitialId": "FANinterstitialIDBeginIMG_16_9_LINK#2109954819150266_2109960142483067FANinterstitialIDLast",
-        "RewardedVideoId": "FANrewardIDBeginVID_HD_16_9_15S_APP_INSTALL#2109954819150266_2109961085816306FANrewardIDLast"
+        "BannerId": "262311855398780_275326354097330",
+        "InterstitialId": "262311855398780_262312712065361",
+        "RewardedVideoId": "262311855398780_275326060764026"
     },
     "EasyUnityAds": {
         "UseEasyUnityAds": false,
