@@ -20,8 +20,8 @@
     },
     "EasyUnityAds": {
         "UseEasyUnityAds": true,
-        "UnityAdsId": "4112833",
-        "PlacementIDBanner": "banner",
+        "UnityAdsId": "4112955",
+        "PlacementIDBanner": "Banner_Android",
         "PlacementIDInterstitisl": "Interstitial_Android",
         "PlacementIDRewarded": "Rewarded_Android"
     }
