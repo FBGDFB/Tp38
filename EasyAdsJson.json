@@ -6,7 +6,7 @@
     "EditorGithubFileUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/EasyAdsJson.json",
     "EditorGoogledriveFileUrl": "",
     "EasyAdmob": {
-        "UseEasyAdmob": false,
+        "UseEasyAdmob": true,
         "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
         "RewardedVideoId": "ca-app-pub-3940256099942544/5224354917",
         "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
