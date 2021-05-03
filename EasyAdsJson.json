@@ -14,9 +14,9 @@
     },
     "EasyFacebook": {
         "UseEasyFacebook": true,
-        "BannerId": "262311855398780_275326354097330",
-        "InterstitialId": "262311855398780_262312712065361",
-        "RewardedVideoId": "262311855398780_275326060764026"
+        "BannerId": "",
+        "InterstitialId": "",
+        "RewardedVideoId": ""
     },
     "EasyUnityAds": {
         "UseEasyUnityAds": false,
