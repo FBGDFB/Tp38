@@ -1,0 +1,28 @@
+{
+    "Version": "1010.1.1",
+    "EnableADSOnServer": true,
+    "UseAdsIn_Github": true,
+    "UseAdsIn_Googledrive": false,
+    "EditorGithubFileUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/EasyAdsJson.json",
+    "EditorGoogledriveFileUrl": "",
+    "EasyAdmob": {
+        "UseEasyAdmob": true,
+        "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
+        "RewardedVideoId": "ca-app-pub-3940256099942544/5224354917",
+        "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
+        "BannerId": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "EasyFacebook": {
+        "UseEasyFacebook": false,
+        "BannerId": "262311855398780_275326354097330",
+        "InterstitialId": "262311855398780_262312712065361",
+        "RewardedVideoId": "262311855398780_275326060764026"
+    },
+    "EasyUnityAds": {
+        "UseEasyUnityAds": false,
+        "UnityAdsId": "4112955",
+        "PlacementIDBanner": "Banner_Android",
+        "PlacementIDInterstitisl": "Interstitial_Android",
+        "PlacementIDRewarded": "Rewarded_Android"
+    }
+}
