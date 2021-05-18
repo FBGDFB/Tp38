@@ -1,28 +1,79 @@
 {
-    "Version": "1010.1.1",
+    "Version": "1.0.1",
+    "DayTime": 0,
+    "toolbarInt": 0,
     "EnableADSOnServer": true,
     "UseAdsIn_Github": true,
+    "UseAdsIn_files_fm": false,
+    "UseAdsIn_Mediafire": false,
+    "UseAdsIn_jumpshare": false,
+    "UseAdsIn_Firebase": false,
+    "UseAdsIn_MySQl": false,
     "UseAdsIn_Googledrive": false,
-    "EditorGithubFileUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/EasyAdsJson.json",
+    "EditorFirebaseFileUrl": "",
+    "EditorGithubFileUrl": "https://github.com/FBGDFB/Tp38/blob/master/EasyAdsJson.json",
+    "EditorJumpShareFileUrl": "",
+    "EditorMediafireFileUrl": "",
+    "Editorfiles_fmFileUrl": "",
+    "Editorfiles_MySQLUrl": "",
     "EditorGoogledriveFileUrl": "",
+    "EasyAdColony": {
+        "UseEasyAdColony": false,
+        "AppId": "",
+        "BannerZoneId": "",
+        "InterstitialZoneId": "",
+        "RewardedZoneId": ""
+    },
     "EasyAdmob": {
-        "UseEasyAdmob": true,
-        "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-        "RewardedVideoId": "ca-app-pub-3940256099942544/5224354917",
-        "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
-        "BannerId": "ca-app-pub-3940256099942544/6300978111"
+        "UseEasyAdmob": false,
+        "AdmobAppId": "",
+        "RewardedVideoId": "",
+        "InterstitialId": "",
+        "BannerId": ""
+    },
+    "EasyAppLovin": {
+        "UseEasyAppLovin": false,
+        "AppId": ""
+    },
+    "EasyChartboost": {
+        "UseEasyChartboost": false,
+        "ChartboostAppId": "",
+        "ChartboostAppSignature": ""
     },
     "EasyFacebook": {
-        "UseEasyFacebook": false,
+        "UseEasyFacebook": true,
         "BannerId": "262311855398780_275326354097330",
         "InterstitialId": "262311855398780_262312712065361",
         "RewardedVideoId": "262311855398780_275326060764026"
     },
+    "EasyHeyzap": {
+        "UseEasyHeyzap": false,
+        "PublisherId": ""
+    },
+    "EasyIronSource": {
+        "UseEasyIronSource": false,
+        "AppKey": "",
+        "BannerAdUnit": "",
+        "InterstitialAdUnit": "",
+        "RewardedVideoAdUnit": ""
+    },
+    "EasyMoPub": {
+        "UseEasyMoPub": false,
+        "BannerAdUnit": "",
+        "InterstitialAdUnit": "",
+        "RewardedVideoAdUnit": ""
+    },
     "EasyUnityAds": {
-        "UseEasyUnityAds": false,
+        "UseEasyUnityAds": true,
         "UnityAdsId": "4112955",
-        "PlacementIDBanner": "Banner_Android",
-        "PlacementIDInterstitisl": "Interstitial_Android",
-        "PlacementIDRewarded": "Rewarded_Android"
+        "BannerPlacement": "Banner_Android",
+        "VideoAdPlacement": "Interstitial_Android",
+        "RewardedVideoAdPlacement": "Rewarded_Android"
+    },
+    "EasyVungle": {
+        "UseEasyVungle": false,
+        "AppID": "",
+        "RewardedPlacementId": "",
+        "InterstitialPlacementID": ""
     }
 }
