@@ -1,0 +1,41 @@
+{
+    "TotalPlayer": 0,
+    "Data": [
+        {
+            "Name": "Readcode",
+            "Level": "43",
+            "Scour": "1231",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar1f.png",
+            "Avatar": {
+                "instanceID": 0
+            }
+        },
+        {
+            "Name": "Master man",
+            "Level": "23",
+            "Scour": "1231",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar1m.png",
+            "Avatar": {
+                "instanceID": 0
+            }
+        },
+        {
+            "Name": "Hamiltion",
+            "Level": "21",
+            "Scour": "1231",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar2f.png",
+            "Avatar": {
+                "instanceID": 0
+            }
+        },
+        {
+            "Name": "StonBrik",
+            "Level": "19",
+            "Scour": "1231",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Tp38/master/avatar2m.png",
+            "Avatar": {
+                "instanceID": 0
+            }
+        }
+    ]
+}
