@@ -27,9 +27,9 @@
     "EasyAdmob": {
         "UseEasyAdmob": true,
         "AdmobAppId": "ca-app-pub-9062368309004930/9129972953",
-        "RewardedVideoId": "ca-app-pub-9062368309004930/9129972953",
-        "InterstitialId": "ca-app-pub-9062368309004930/1619998659",
-        "BannerId": "ca-app-pub-9062368309004930/1461228312"
+        "RewardedVideoId": "ca-app-pub-3940256099942544/5224354917",
+        "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
+        "BannerId": "ca-app-pub-3940256099942544/6300978111"
     },
     "EasyAppLovin": {
         "UseEasyAppLovin": true,
