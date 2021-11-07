@@ -25,7 +25,7 @@
         "RewardedZoneId": ""
     },
     "EasyAdmob": {
-        "UseEasyAdmob": true,
+        "UseEasyAdmob": false,
         "AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
         "RewardedVideoId": "ca-app-pub-9062368309004930/6690950791",
         "InterstitialId": "ca-app-pub-9062368309004930/1619998659",
